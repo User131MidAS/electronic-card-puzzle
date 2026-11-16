@@ -12,7 +12,7 @@ Files       | Purpose
 
 ## Links to website
 
-- https://electronic-card.as9459372.workers.dev/
+- https://electronic-card-website.as9459372.workers.dev/
 
 - https://itecrdaljss.as9459372.workers.dev/
 
