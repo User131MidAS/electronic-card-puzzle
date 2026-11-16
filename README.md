@@ -10,9 +10,11 @@ Files       | Purpose
 `style.css` | Layout, colors, and card styling 
 `script.js` | Puzzle logic, card open/close, and revealing the message 
 
-## Link to website
+## Links to website
 
-https://myelectroniccardwebsite.as9459372.workers.dev/
+- https://electronic-card.as9459372.workers.dev/
+
+- https://itecrdaljss.as9459372.workers.dev/
 
 ## Running it locally
 
