@@ -12,8 +12,10 @@ Files       | Purpose
 
 ## Links to website
 
+Normal E-card
 - https://electronic-card-website.as9459372.workers.dev/
 
+Ultra-Mega-Super-Hard Challenge E-card
 - https://itecrdaljss.as9459372.workers.dev/
 
 ## Running it locally
