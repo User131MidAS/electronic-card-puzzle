@@ -113,10 +113,10 @@ function checkFirstPuzzle() {
 
 // Check Puzzle 2's passcode and reveal Puzzle 3.
 function checkPasscode() {
-	const passcode = Number(document.getElementById("num2").value);
+	const passcode = document.getElementById("num2").value.trim().toLowerCase();
 	const message = document.getElementById("passcodeMessage");
 
-	if (passcodeAnswer.includes(passcode)) {
+	if (passcodeAnswer.map(String).includes(passcode)) {
 		message.className = "msg ok";
 		document.getElementById("p2").classList.add("hidden");
 		document.getElementById("p3").classList.remove("hidden");
