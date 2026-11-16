@@ -28,6 +28,7 @@ Then visit `http://localhost:8000`.
 
 ## Note
 
+- All passwords can be bypassed with "4"
 - There are youtube videos. 
 - Refresh the page to return to the original state.
 - An internet connection is needed for the embedded videos.
